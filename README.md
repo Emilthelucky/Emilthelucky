@@ -1,17 +1,15 @@
 [![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221222184908/web-development1.png)](https://emilthelucky.io)
 <h1 align="center">Hi my name is Emil</h1>
-<h3 align="center">I'm web(Front-end) developer from Azerbaijan/Baku</h3>
+<h3 align="center">I'm a Full Stack developer from Azerbaijan/Baku</h3>
 <img align="right" alt="Front-end Developer" width="400" src="https://media1.giphy.com/avatars/nounish/lEbkud38zEkm.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilthelucky&label=Profile%20views&color=0e75b6&style=flat" alt="emilthelucky" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Vue.js React**
+- 💬 Ask me about **React & Vue**
 
-- 💬 Ask me about **Vue 3**
-
-- 📫 How to reach me **asifadisirinov@gmail.com**
+- 📫 How to reach me **emiladishirinov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
